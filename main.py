@@ -4,8 +4,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 
-CLIENT_ID = '9ae0c307f01b488f8b8345172b82a3de'
-CLIENT_SECRET = '6a7fa7537dc94485b5e6b24678168e32'
+CLIENT_ID = "YOUR CLIENT ID"
+CLIENT_SECRET = "YOUR CLIENT SECRET"
 
 ## scraping informations from Billboard
 
